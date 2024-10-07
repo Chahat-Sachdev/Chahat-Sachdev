@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Chahat-Sachdev
-- 👀 I’m interested in Web development, Data science and Project management
+- 👀 Evolved from web development and data analysis,shaped as product manager
 - 🌱 I’m currently learning backend development
 - 📫 myGMAIL- chahatsachdev04@gmail.com
 - 📫 my Linked-in- https://www.linkedin.com/in/chahat-sachdev-7873871b1/
